@@ -1,15 +1,13 @@
 ## Андрей Тен
-
-г. Санкт-Петербург, 11 июля 1997, 26 лет
-
 #### Technical support engineer / Junior DevOps engineer
+_г. Санкт-Петербург, 11 июля 1997, 26 лет_
 
 #### Контакты
-> тел.: ```+79111743493```
+> **_тел._**: +79111743493
 >
-> telegram: [@tennnessse](https://t.me/tennnessse)
+> **_telegram_**: [@tennnessse](https://t.me/tennnessse)
 >
-> e-mail: ta1197d@gmail.com
+> **_e-mail_**: ta1197d@gmail.com
 
 #### Опыт работы
 
