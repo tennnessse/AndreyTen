@@ -8,7 +8,6 @@
 <br><a href = "https://t.me/@tennnessse" target="_blank">Telegram</a>
 <br><a href = "http://linkedin.com/" target="_blank">LinkedIn</a>
 </td>
-</td>
 </tr>
 </table>
 
