@@ -9,9 +9,12 @@
 
 #### Опыт работы
 
-| период        | должность          |
+|        период        |          должность          |
 |:-------------|:------------------|
 | июл 2023 - н.в.| Technical support engineer в blockchain node provider |
 
 #### Технологический стек
-**```Linux``` ```Debian``` ```Ubuntu``` ```Bash``` ```Nginx``` ```Envoy``` ```Prometheus``` ```Grafana``` ```ArangoDB``` ```MySQL``` ```Docker``` ```Docker-compose``` ```Gitlab``` ```Ansible``` ```Nomad``` ```Consul``` ```Kubernetes```**
+
+**```Linux``` ```Debian``` ```Ubuntu``` ```Bash``` ```Nginx``` ```Envoy``` 
+```Prometheus``` ```Grafana``` ```ArangoDB``` ```MySQL``` ```Docker``` 
+```Docker-compose``` ```Gitlab``` ```Ansible``` ```Nomad``` ```Consul``` ```Kubernetes```**
