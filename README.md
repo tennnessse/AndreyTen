@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Андрей Тен
 <Html>
 <table><tr>
