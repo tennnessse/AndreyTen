@@ -12,6 +12,7 @@
 > e-mail: ta1197d@gmail.com
 
 #### Опыт работы
+
 | период        | должность          |
 |:-------------|:------------------|
 | июл 2023 - н.в.| Technical support engineer в blockchain node provider |
