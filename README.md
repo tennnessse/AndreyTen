@@ -1,5 +1,3 @@
-## Андрей Тен
-#### Technical support engineer / Junior DevOps engineer
 _г. Санкт-Петербург, 11 июля 1997, 26 лет_
 
 #### Контакты
